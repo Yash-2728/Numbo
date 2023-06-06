@@ -5,4 +5,11 @@ Numbo is a calculator app developed using Kotlin programming language. It offers
 
 ## Demo
 
-![23-05-23-15-54-54](https://github.com/Yash-2728/Numbo/assets/114726890/78e67bb6-b878-49a7-aeb8-eb42171bbb3c)
+
+
+
+<!-- ![23-05-23-15-54-54](https://github.com/Yash-2728/Numbo/assets/114726890/6ec2bce6-59e0-4c22-9044-c622b6016376) -->
+
+<img src="https://github.com/Yash-2728/Numbo/assets/114726890/6ec2bce6-59e0-4c22-9044-c622b6016376" width="400" height="750">
+
+
